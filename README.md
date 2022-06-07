@@ -20,12 +20,11 @@ Javascript, HTML, CSS...
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bomanya2&theme=blue-green)
 ## Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=bomanya2)
-## Contributor's Badge
-![GitHub Contributors Image](https://contrib.rocks/image?repo=bomanya2/)
 ## Contributions
 
 Contributions are always welcome!
 
 Please adhere to this project's `code of conduct`.
 
-
+## Feedback
+If you have any feedback, please reach out to me bomanya2@gmail.com
