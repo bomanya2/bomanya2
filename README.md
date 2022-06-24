@@ -26,5 +26,4 @@ Contributions are always welcome!
 
 Please adhere to this project's `code of conduct`.
 
-## Feedback
-If you have any feedback, please reach out to me bomanya2@gmail.com
+Ⓒ 2022.All rights reserved
