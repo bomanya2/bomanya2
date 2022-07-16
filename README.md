@@ -1,3 +1,4 @@
+![Brian Omanya (1)](https://user-images.githubusercontent.com/105014112/179357069-1340c2ff-19af-4a58-a7f7-c8f05c1b8a76.png)
 
 ## 👋🙂 Hey There!
 # I am Brian Omanya
